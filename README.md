@@ -1,0 +1,2 @@
+# freecodecampcoder
+freeCodeCamp es una comunidad de código abierto que te ayuda a aprender programación. Puedes aprender a través de desafíos de programación a tu propio ritmo, construyendo proyectos e incluso obtener certificaciones. El programa consta de 4 certificaciones que duran un total de 2,080 horas. Esto se traduce en un año de programación a tiempo completo lo cual es genial pues no hay mejor manera de aprender a programar que programando.
